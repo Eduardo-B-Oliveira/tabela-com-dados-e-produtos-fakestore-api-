@@ -1,0 +1,1 @@
+# tabela-com-dados-e-produtos-fakestore-api-
